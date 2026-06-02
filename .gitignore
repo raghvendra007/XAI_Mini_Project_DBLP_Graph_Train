@@ -1,0 +1,5 @@
+dblp.ttl
+dblp.ttl.gz
+*.gz
+.ipynb_checkpoints/
+__pycache__/

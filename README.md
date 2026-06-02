@@ -1,2 +1,0 @@
-# XAI_Mini_Project_DBLP_Graph_Train
-XAI_Mini_Project_Paderborn
