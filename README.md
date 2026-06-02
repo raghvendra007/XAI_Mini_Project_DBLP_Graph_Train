@@ -10,7 +10,7 @@ convert it into a format suitable for GNN training and explanation.
 
 ---
 
-## My Role
+## My Role(Raghvendra Tiwari)
 I was responsible for:
 - Downloading and analyzing the raw DBLP RDF dataset (22GB TTL file)
 - Extracting Paderborn University authors, their papers, and venues
